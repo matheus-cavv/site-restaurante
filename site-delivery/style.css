@@ -1,0 +1,33 @@
+
+
+
+
+header {
+    height: 80vh;
+    background-image: url("../site-delivery/img/banner_desktop.png");
+    background-size: cover;
+    font-weight: 700;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.btn-link {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.modal-footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.modal-footer li {
+    list-style-type: none;
+}
